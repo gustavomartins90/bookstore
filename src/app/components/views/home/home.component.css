@@ -1,6 +1,6 @@
 .home {
-    width: 95%;
-    margin: 1rem auto;
+    width: 90%;
+    margin: 3rem auto;
 }
 
 @media(max-width: 450px){ /*celular*/
