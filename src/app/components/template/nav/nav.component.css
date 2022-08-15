@@ -10,4 +10,13 @@ i {
     .container{
         width: 100%;
     }
+    
+    .left-menu {
+        width: 25%;
+    }
+
+    i {
+        padding-right: .1rem;
+    }
+
 }
