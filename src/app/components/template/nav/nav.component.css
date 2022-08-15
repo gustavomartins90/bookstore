@@ -1,7 +1,13 @@
 .container {
-    height: 85%;
+    height: 90%;
 }
 
 i {
     padding-right: .6rem;
+}
+
+@media(max-width: 450px){ /*celular*/
+    .container{
+        width: 100%;
+    }
 }
