@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 280ed578513da7bc1b51d885b77e6338bdf7dede gustavomartins90 <gustavomartins.trade@gmail.com> 1660192025 -0300	commit (initial): initial commit
+280ed578513da7bc1b51d885b77e6338bdf7dede c3ffaee028e176780832a405dfcf28a66e5639a9 gustavomartins90 <gustavomartins.trade@gmail.com> 1660280756 -0300	commit: angular material instalado no projeto
+c3ffaee028e176780832a405dfcf28a66e5639a9 0529f50c107d19e2ca4c4e2d75796122d57caa39 gustavomartins90 <gustavomartins.trade@gmail.com> 1660284230 -0300	commit: Home implementado com rota
+0529f50c107d19e2ca4c4e2d75796122d57caa39 ab892bd767acaf2ab8655415c7a073faab06775a gustavomartins90 <gustavomartins.trade@gmail.com> 1660366874 -0300	commit: categoria-read implementado
+ab892bd767acaf2ab8655415c7a073faab06775a 8b81bbedbcef5fca6968857bdf40cc63c7a5b6a8 gustavomartins90 <gustavomartins.trade@gmail.com> 1660516371 -0300	commit: exibição lista categorias/ metodo create nova categoria
+8b81bbedbcef5fca6968857bdf40cc63c7a5b6a8 a4130906b31a62ab23b2ffc0792cceefb56f29a6 gustavomartins90 <gustavomartins.trade@gmail.com> 1660520283 -0300	commit: categoria-delete implementado
+a4130906b31a62ab23b2ffc0792cceefb56f29a6 1b29a5951550550ee7a03d44f33147f33b3ef5b8 gustavomartins90 <gustavomartins.trade@gmail.com> 1660522931 -0300	commit: categoria update implementado
+1b29a5951550550ee7a03d44f33147f33b3ef5b8 2bb70ad6b3ec8520e2c045e7cd6d47e93ebe29dc gustavomartins90 <gustavomartins.trade@gmail.com> 1660525045 -0300	commit: listagem de livros por categoria
+2bb70ad6b3ec8520e2c045e7cd6d47e93ebe29dc 3ce6da914f4d5385ae732b24ddbdb7243a3c7e32 gustavomartins90 <gustavomartins.trade@gmail.com> 1660529365 -0300	commit: livre create implementado
+3ce6da914f4d5385ae732b24ddbdb7243a3c7e32 1a4d1ca287784fe3a645f1ad9e7200b03d81f0b3 gustavomartins90 <gustavomartins.trade@gmail.com> 1660538565 -0300	commit: livro update implementado
+1a4d1ca287784fe3a645f1ad9e7200b03d81f0b3 06ec44c82da067038003900369790d4049a6c6e9 gustavomartins90 <gustavomartins.trade@gmail.com> 1660540475 -0300	commit: livro delete implementado
+06ec44c82da067038003900369790d4049a6c6e9 0afd3033132859f06550f5ea9602f81fa4bbe144 gustavomartins90 <gustavomartins.trade@gmail.com> 1660542105 -0300	commit: livro READ implementado
+0afd3033132859f06550f5ea9602f81fa4bbe144 391179c87a814ff102d2d40c069c67f56f2cd771 gustavomartins90 <gustavomartins.trade@gmail.com> 1660587578 -0300	commit: link host heroku
